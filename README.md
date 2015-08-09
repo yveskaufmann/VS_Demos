@@ -28,4 +28,4 @@ $ bower install
 $ chmod 755 bin/www
 $ npm start
 ```
-Anschließend öffnen der [URL](localhost:3000)
+Anschließend öffnen der [URL](http://localhost:3000)
