@@ -12,8 +12,8 @@ which must be installed on your workstation in order to run this
 demonstration.
 
 Due the fact that this demo uses [Node.js](https://nodejs.org/) you have to
-first to install [Node.js] first on your system by following
-the installation instruction on the [Node.js] Website.
+first to install first on your system by following
+the installation instruction on the Website.
 
 ## Install
 
