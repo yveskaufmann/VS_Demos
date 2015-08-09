@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+/**
+ * Load and run the Demo
+ */
+var app = require('../src/App');
+app.listen(3000);
+
+

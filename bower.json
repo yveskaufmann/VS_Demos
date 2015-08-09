@@ -1,0 +1,22 @@
+{
+  "name": "VS_DEMO",
+  "version": "0.0.0",
+  "authors": [
+    "Yves Kaufmann s0544361@htw-berlin.de"
+  ],
+  "description": "A demonstration of http long polling and Web Socket for the university.",
+  "license": "MIT",
+  "homepage": "https://github.com/yveskaufmann",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "nanoscroller": "~0.8.7",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4"
+  }
+}

@@ -1,0 +1,46 @@
+.nano { height: 20em; }
+.nano .nano-content { padding: 1em; }
+.nano .nano-pane   { background: #888; }
+.nano .nano-slider { background: #111; }
+
+.chat .nano-content .chat-line:first-child {
+    display: none;
+    visibility: hidden;
+
+}
+
+.chat .chat-line {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    line-height: 1.5em;
+}
+
+.chat .chat-user {
+    font-weight: bold;
+    padding-left: 2em;
+    padding-right: 0;
+}
+
+.chat .chat-msg {
+    word-wrap: break-word;
+    padding-left: 1em;
+}
+
+.chat-current-user:before {
+    content: '@';
+}
+
+.chat-current-user {
+    font-weight: bold;
+    font-style: italic;
+    padding-left: 1em;
+    margin-left: 0em;
+    float: right;
+}
+
+@media screen and (min-width: 960px) {
+    .container {
+        max-width: 960px;
+    }
+}
+
